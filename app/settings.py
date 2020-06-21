@@ -1,5 +1,5 @@
 try:
-    from local_settings import * # NOQA
+    from app.local_settings import * # NOQA
 except ImportError:
 
     raise Exception(
