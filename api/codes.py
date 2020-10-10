@@ -1,0 +1,7 @@
+# 2xx Success
+OK = 200
+CREATED = 201
+
+# 4xx
+NOT_FOUND = 404
+UNPROCESSABLE_ENTITY = 422
